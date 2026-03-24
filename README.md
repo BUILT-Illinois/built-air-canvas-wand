@@ -87,4 +87,6 @@ To use CircuitPython on the Pi Zero, install Adafruit’s Blinka. Follow Adafrui
 
 https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi
 
-With Blinka installed, you are ready to begin writing software. Note you must be in the virtual enviroment to write code. 
+With Blinka installed, we can proceed to installing the Adafruit BNO08X circuit python library so we can receive data from the IMU. We can install the library in our virtual enviroment with the following command: <br> ```pip3 install adafruit-circuitpython-bno08x```<br> Once installed we are ready to begin writing software. <b>Note you must be in the virtual enviroment for IMU code to run.<b> 
+
+
