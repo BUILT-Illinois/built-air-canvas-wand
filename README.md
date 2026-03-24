@@ -87,4 +87,4 @@ To use CircuitPython on the Pi Zero, install Adafruit’s Blinka. Follow Adafrui
 
 https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi
 
-With Blinka installed, you are ready to begin writing software.
+With Blinka installed, you are ready to begin writing software. Note you must be in the virtual enviroment to write code. 
