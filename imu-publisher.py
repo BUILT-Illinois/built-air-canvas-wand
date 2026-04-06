@@ -10,7 +10,7 @@ CERT_PATH = "certs/device-certificate.pem.crt"
 KEY_PATH = "certs/device-private.pem.key"
 CA_PATH = "certs/AmazonRootCA1.pem"
 CLIENT_ID = "RaspberryPi-IMU-01"
-MQTT_TOPIC = "imu/raspberrypi_01/data"
+MQTT_TOPIC = "air-canvas/data"
 
 #IMU Settings
 PUBLISH_RATE_HZ = 2  # Publish rate in Hz
